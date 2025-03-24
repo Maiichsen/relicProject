@@ -2,7 +2,7 @@ name: Deploy with Performance Gate
 
 on:
   push:
-    branches: [ main ]
+    branches: [ opgave2 ]
   workflow_dispatch:
 
 jobs:

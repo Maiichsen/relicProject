@@ -2,7 +2,7 @@ name: Performance Test
 
 on:
   pull_request:
-    branches: [ main ]
+    branches: [ opgave2 ]
   workflow_dispatch:
 
 jobs:
